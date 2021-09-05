@@ -1,0 +1,32 @@
+***************************************
+Shampoo
+Moisturizer
+Facewash women
+Oil
+***************************************
+List of top 5 result of product 3
+Shampoo
+Result1->Head & Shoulders , Anti Dandruff Shampoo, Cool Menthol , 650 ML
+Result2->Head & Shoulders , Anti Dandruff Shampoo + Conditioner, Smooth & Silky, 1 L
+Result3->Head & Shoulders , Anti Dandruff Shampoo, Smooth & Silky, 650 ML
+Result4->Head & Shoulders Smooth and Silky Anti Dandruff Shampoo, 650ml
+Result5->Tresemme Keratin Smooth Shampoo,With Keratin And Argan Oil For Straighter, Smoother And Shinier Hair, 1 Ltr
+******************************************
+List of top 5 result of product 2 
+Moisturizer
+Result1->Dermafique Intensive Restore Body Serum, Body Lotion for Dry Skin, 10x Vitamin E, Deeply hydrates and moisturizes, Repairs Skin Barrier, Dermatologist Tested (300 ml)
+Result2->Cetaphil Moisturizing Lotion, 100 ml
+Result3->Lakme Peach Milk Moisturizer Body Lotion, Lightweight, Non-Sticky, Locks Moisture For 12 Hours, 200 ml
+Result4->Biotique Morning Nectar Flawless Skin moisturizer for All Skin Types, 190ml
+Result5->Neutriderm Moisturising Lotion w/Vitamin E - 125 mL
+******************************************
+List of top 5 result of product 3 
+Facewash women
+Result1->Cetaphil Gentle Foaming Cleanser, 236 ml
+Result2->Plum Green Tea Pore Cleansing Face Wash | Acne Face Wash | Oily Skin | Bright, Clear Skin | 100% Vegan | 100% Paraben Free | 75ml
+Result3->POND'S Bright Beauty Spot-less Glow Face Wash With Vitamins, Removes Dead Skin Cells & Dark Spots, Double Brightness Action, All Skin Types, 200g
+Result4->Biotique Bio Papaya Visibly Ageless Face Wash, Pack of 2, 200 ml (2 x 100 ml)
+Result5->Garnier Skin Naturals Light Complete Facewash, 100g
+done
+******************************************
+End of Code
